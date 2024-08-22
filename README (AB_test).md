@@ -55,7 +55,3 @@ __Выполнил__: Колесников Дмитрий
 **from_page** – откуда пользователь перешел на страницу оплаты <br>
 **product_type** – тип продукта 
 (*trial_premium* – пробная премиум-подписка, *premium_no_trial* – премиум-подписка без пробной, *coins* – подписка за внутреннюю валюту, *other_type* – другое) 
-
----
-> Решение данного проекта представлено в формате документа [AAB_test.ipynb](https://nbviewer.org/github/Koldim2001/Final_project_Analyst/blob/main/AAB_test.ipynb)
->
